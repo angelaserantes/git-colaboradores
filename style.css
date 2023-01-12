@@ -1,0 +1,19 @@
+body{
+    margin: 0%;
+    height: 100vh;
+}
+
+table{
+    border-collapse: collapse;
+    border: red 9px solid;
+   }
+
+
+tr{
+    border: red 9px solid;
+}   
+td{
+    border: red 9px solid;
+}
+
+/*quizás sería bueno cambiar los bordes*/
