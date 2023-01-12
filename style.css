@@ -5,15 +5,16 @@ body{
 
 table{
     border-collapse: collapse;
-    border: red 9px solid;
+    border: black 1px solid;
    }
 
 
 tr{
-    border: red 9px solid;
+    border: black 1px solid;
 }   
 td{
-    border: red 9px solid;
+    border: black 1px solid;
 }
 
 /*quizás sería bueno cambiar los bordes*/
+/*Voy a poner un borde negro con 1px*/
